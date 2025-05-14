@@ -1,0 +1,215 @@
+(footprint "SW_TL6330AF200Q_Footprint"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.635 -3.429 0)
+		(layer "F.SilkS")
+		(uuid "5aeccdcb-738f-4679-b629-2b514f5e3e54")
+		(effects
+			(font
+				(size 1.4 1.4)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_TL6330AF200Q_Footprint"
+		(at 8.255 2.921 0)
+		(layer "F.Fab")
+		(uuid "00d2d483-f20a-40cd-8221-0deceb2614f0")
+		(effects
+			(font
+				(size 1.4 1.4)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0cd5931b-59bc-4684-b3db-f56112c8d211")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8ce845fe-3d77-4f9e-b485-a542f8050788")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.2865 -1.4)
+		(end 1.2865 -1.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1e35e891-b719-4b2e-b400-708dcc1f3c6d")
+	)
+	(fp_line
+		(start -1.2865 1.4)
+		(end 1.2865 1.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c870e058-0253-486c-be12-27948eca8433")
+	)
+	(fp_circle
+		(center -3.5 1)
+		(end -3.4 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "736975c4-5292-4a90-805b-7e0f939758e3")
+	)
+	(fp_line
+		(start -2.75 -1.65)
+		(end 2.75 -1.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a2d7bf43-713a-4d70-a21e-0b7bcd2f64f5")
+	)
+	(fp_line
+		(start -2.75 1.65)
+		(end -2.75 -1.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7bca9d51-5b09-4a9f-95f3-e555a3c945be")
+	)
+	(fp_line
+		(start 2.75 -1.65)
+		(end 2.75 1.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "583164a7-cf7c-4bd6-b661-16d8bc3df8f1")
+	)
+	(fp_line
+		(start 2.75 1.65)
+		(end -2.75 1.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9b821993-ad7b-4647-8d18-d546ecc81aa0")
+	)
+	(fp_line
+		(start -2.3 -1.4)
+		(end 2.3 -1.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "05dd19ae-a532-4390-9389-01ad6f5cd220")
+	)
+	(fp_line
+		(start -2.3 1.4)
+		(end -2.3 -1.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8907a499-0297-459e-85db-0e158581fddd")
+	)
+	(fp_line
+		(start 2.3 -1.4)
+		(end 2.3 1.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "982a2328-cf53-4751-b32b-4a58d3c8b575")
+	)
+	(fp_line
+		(start 2.3 1.4)
+		(end -2.3 1.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7f22f3c9-0a53-4615-acd2-4786a75a57c2")
+	)
+	(fp_circle
+		(center -3.5 1)
+		(end -3.4 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "9fda0b98-f28d-49ab-a85e-b54a1758a2ee")
+	)
+	(pad "1" smd rect
+		(at -2.05 0.8)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "edcaad35-322d-461a-8a39-a8ab4b882656")
+	)
+	(pad "2" smd rect
+		(at 2.05 0.8)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "f78d4f38-b782-437d-8c0d-5e018ce76f95")
+	)
+	(pad "3" smd rect
+		(at -2.05 -0.8)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "51ada1a7-1f69-44ac-aaec-4f0fcfa4a8ba")
+	)
+	(pad "4" smd rect
+		(at 2.05 -0.8)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "2592faaf-604e-4ebd-a533-3343946b8463")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/boccs/OneDrive/Documents/GitHub/Garden-I2C-MUX-Microcontroller/REIMAGINED_3D_FILES_BLENDER/TL6330AF200Q.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
