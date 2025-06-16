@@ -2718,7 +2718,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "470d361a-3b2d-4673-9445-227e9dd15053")
+			(uuid "3e4155e0-623c-4c70-a33e-88ec53fbd2c6")
 		)
 		(fp_line
 			(start 6.75 -5.5)
@@ -2728,7 +2728,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fef7846a-e74a-4ee5-8fc9-eda31ed1033c")
+			(uuid "c6c55a0d-5830-46d7-a47d-23f70d9e5cd0")
 		)
 		(fp_line
 			(start -6.75 5.75)
@@ -2738,7 +2738,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "852f07cf-9404-4cec-bb59-858930afe485")
+			(uuid "6999e7ed-d6bf-42a8-a06e-95869eda89a7")
 		)
 		(fp_line
 			(start -6.75 -5.5)
@@ -2748,7 +2748,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d95fc0d3-9b9e-4280-9697-e452949f9752")
+			(uuid "c37077e1-bb48-46f1-8b1a-f8ee25de461e")
 		)
 		(fp_poly
 			(pts
@@ -2760,7 +2760,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "c7f19f14-d801-4224-a56d-9040314f5a03")
+			(uuid "8d046b1c-f566-49a5-9814-f205d3bb9dc9")
 		)
 		(fp_line
 			(start 21.6 -5.6)
@@ -2770,7 +2770,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f35d244a-372c-43d0-8a9a-301c7f985739")
+			(uuid "7eb9ee01-49e2-48fc-9492-eea24bed1e40")
 		)
 		(fp_line
 			(start 6.85 5.85)
@@ -2780,7 +2780,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "62844f6a-0a56-4c2c-956e-5e845e9f2f20")
+			(uuid "8ad80621-0ed7-4ee8-bd31-9fd6bc281339")
 		)
 		(fp_line
 			(start 6.85 -5.6)
@@ -2790,7 +2790,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e6fe4dcf-623b-446e-8b8c-669981123d36")
+			(uuid "df656e2f-f6d8-4abf-b494-a29816cd8ccf")
 		)
 		(fp_line
 			(start 6.85 -5.6)
@@ -2800,7 +2800,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c85f5d0e-45c1-4c88-8b4c-691e8d1e6a66")
+			(uuid "e9863064-e335-4c6c-8442-512123954454")
 		)
 		(fp_line
 			(start -6.85 5.85)
@@ -2810,7 +2810,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "32bfe7ae-3992-44ae-93b6-7aaa0deea72d")
+			(uuid "b6019377-979d-4bdc-947e-dcfd29e84ae9")
 		)
 		(fp_line
 			(start -6.85 -5.6)
@@ -2820,7 +2820,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9cebf885-c805-4844-a9a0-9a25368441ee")
+			(uuid "337b5165-86b4-42b2-9cc4-0e14c7462e39")
 		)
 		(fp_line
 			(start -21.6 -5.6)
@@ -2830,7 +2830,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b1347423-4d31-4613-89db-96041fc2f924")
+			(uuid "8c6974a5-ff00-431c-8c9f-f2677f92ef90")
 		)
 		(fp_line
 			(start -21.6 -26)
@@ -2840,7 +2840,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ff8aa1dc-fcfa-4b1d-ba3a-76731d05d5b1")
+			(uuid "f72e9371-367a-46bb-86f9-7c5949ae8e85")
 		)
 		(fp_line
 			(start 6.6 5.6)
@@ -2850,7 +2850,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "198f0e55-ec3d-41ad-b5ce-21b9be88fcd4")
+			(uuid "96473775-bbfa-4b8d-8669-a18d18eaef7b")
 		)
 		(fp_line
 			(start 6.6 -11)
@@ -2860,7 +2860,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f6223964-38c0-47f3-838b-7a61b89e9b49")
+			(uuid "e6e5a3c5-0e54-48e9-9815-6b4834e1ddb3")
 		)
 		(fp_line
 			(start -5.6 5.6)
@@ -2870,7 +2870,7 @@
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "19f9ca6f-c79a-4255-a0e0-43219ec9acb3")
+			(uuid "bc8f1492-1773-4a7a-a7bb-94a5b327a020")
 		)
 		(fp_line
 			(start -6.6 4.6)
@@ -2880,7 +2880,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0612b2bc-3abf-4a30-bdbd-2485237a7c72")
+			(uuid "c917b715-9d54-4a3a-9ecf-eb36b6e94375")
 		)
 		(fp_line
 			(start -6.6 -5.6)
@@ -2890,7 +2890,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e2091201-81d3-436d-84a6-6dc7c6c36658")
+			(uuid "c46b5257-e9c8-4144-86c2-8bba68fe5970")
 		)
 		(fp_line
 			(start -6.6 -11)
@@ -2900,7 +2900,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5c1b1c08-386b-4890-92fd-71d6f9ec3ed9")
+			(uuid "5b3a315a-9b7a-4517-b28e-b3c4f413072e")
 		)
 		(fp_text user "Antenna"
 			(at 0 -7.675 0)
@@ -3510,7 +3510,7 @@
 			(net 0)
 			(net_name "")
 			(layers "F.Cu" "B.Cu")
-			(uuid "6e13c7d6-9b54-4f77-8a49-386289238bae")
+			(uuid "8e7cc3b8-fc1d-4bc2-935d-7d74c0b0910a")
 			(name "Antenna")
 			(hatch full 0.508)
 			(connect_pads
