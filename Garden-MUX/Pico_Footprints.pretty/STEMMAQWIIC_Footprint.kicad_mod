@@ -1,7 +1,7 @@
 (footprint "STEMMAQWIIC_Footprint"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 -5.5 0)
@@ -21,18 +21,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "db92ca01-1a21-4160-b473-473e50ead6d4")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -119,7 +107,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "74bd6bd4-d34f-472e-9cb4-c2eb65fd6ffc")
 	)
@@ -210,52 +198,53 @@
 			(width 0.2)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "acc11ef1-ea6b-471d-a332-346b58a87686")
 	)
 	(pad "1" smd rect
 		(at -1.5 -2.45)
 		(size 0.6 1.55)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "381e6fc3-9f29-438f-ae97-5d833016fe99")
 	)
 	(pad "2" smd rect
 		(at -0.5 -2.45)
 		(size 0.6 1.55)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "74541858-114e-4239-8af2-790a9cd3e583")
 	)
 	(pad "3" smd rect
 		(at 0.5 -2.45)
 		(size 0.6 1.55)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "842563f8-73e8-4de1-990e-cd0baeb9bc37")
 	)
 	(pad "4" smd rect
 		(at 1.5 -2.45)
 		(size 0.6 1.55)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "5efb4324-15d5-4f88-99f7-3384ab2f4cda")
 	)
 	(pad "S1" smd rect
 		(at -2.8 1.425)
 		(size 1.2 1.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "4258546f-edfe-47b9-aa14-2c83dfecc629")
 	)
 	(pad "S2" smd rect
 		(at 2.8 1.425)
 		(size 1.2 1.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "4a79fe7f-cc76-44ad-8501-03194b52c172")
 	)
+	(embedded_fonts no)
 	(model "C:/Users/boccs/OneDrive/Documents/GitHub/desk-project-stemma-hat/REIMAGINED_3D_FILES_BLENDER/PRT-14417.step"
 		(offset
 			(xyz 0 2 -0.3)
@@ -276,6 +265,17 @@
 		)
 		(rotate
 			(xyz -90 0 0)
+		)
+	)
+	(model "/Users/sunewst/Documents/GitHub/Garden-microcontroller/REIMAGINED_3D_FILES_BLENDER/PRT-14417.step"
+		(offset
+			(xyz 0 2 -0.3)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
 		)
 	)
 )
