@@ -6560,6 +6560,16 @@
 	)
 	(wire
 		(pts
+			(xy 293.37 78.74) (xy 293.37 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "430a329f-1f4e-4e7a-91bf-25c22b329392")
+	)
+	(wire
+		(pts
 			(xy 417.83 58.42) (xy 417.83 68.58)
 		)
 		(stroke
@@ -7587,6 +7597,16 @@
 			(type default)
 		)
 		(uuid "aa96fd95-3d39-4089-8359-982708cd65d6")
+	)
+	(wire
+		(pts
+			(xy 293.37 88.9) (xy 293.37 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aad3801b-af8c-4fbd-ae1d-b07636376d2c")
 	)
 	(wire
 		(pts
@@ -9842,6 +9862,72 @@
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
 					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 293.37 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "15a93610-fe2d-4ec4-90eb-825e629577f5")
+		(property "Reference" "#PWR039"
+			(at 293.37 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 293.37 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 293.37 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 293.37 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 293.37 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "161dfb7a-995f-4ccc-b918-cb389ec7ef52")
+		)
+		(instances
+			(project "Garden-MUX"
+				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -12493,6 +12579,72 @@
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 293.37 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "50fa60f0-abfb-44f5-b6eb-a64ef7929f52")
+		(property "Reference" "#PWR040"
+			(at 293.37 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 293.37 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 293.37 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 293.37 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 293.37 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bf528292-d057-4e51-92e4-6500d6a89659")
+		)
+		(instances
+			(project "Garden-MUX"
+				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -18114,6 +18266,76 @@
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 293.37 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fede1754-d399-42e8-8db3-200584b4d1b8")
+		(property "Reference" "C6"
+			(at 297.18 83.8199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1"
+			(at 297.18 86.3599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 294.3352 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 293.37 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 293.37 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3b244242-2c72-4b1c-8cb0-f9eac1339bca")
+		)
+		(pin "2"
+			(uuid "b72f5895-ca3b-4332-830c-7ebdd8c2d761")
+		)
+		(instances
+			(project ""
+				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
+					(reference "C6")
 					(unit 1)
 				)
 			)
