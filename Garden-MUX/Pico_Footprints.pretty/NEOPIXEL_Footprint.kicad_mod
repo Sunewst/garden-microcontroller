@@ -1,7 +1,7 @@
 (footprint "NEOPIXEL_Footprint"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 1.5 -1.75 0)
@@ -21,18 +21,6 @@
 		(effects
 			(font
 				(size 0.787402 0.787402)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "06d7502d-a040-4832-a01a-56f61edb2f60")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -69,7 +57,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "de192059-20bc-4fcf-b369-835067d99112")
 	)
@@ -160,39 +148,40 @@
 			(width 0.2)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "2e52be9d-e2ee-403b-909c-e8f0450c31dc")
 	)
 	(pad "1" smd rect
 		(at -0.475 -0.475)
 		(size 0.55 0.55)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "43765f73-0a0f-42d9-b5d2-50a19ad3867f")
 	)
 	(pad "2" smd rect
 		(at -0.475 0.475)
 		(size 0.55 0.55)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "c1103ad7-373b-47cd-9a08-0242ddb4c3f9")
 	)
 	(pad "3" smd rect
 		(at 0.475 0.475)
 		(size 0.55 0.55)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "31e37adf-d21b-4078-8129-16ac08010311")
 	)
 	(pad "4" smd rect
 		(at 0.475 -0.475)
 		(size 0.55 0.55)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "015ff3bf-e508-4647-a145-2ac4f914b778")
 	)
-	(model "C:/Users/boccs/OneDrive/Documents/GitHub/desk-project-stemma-hat/REIMAGINED_3D_FILES_BLENDER/4492.step"
+	(embedded_fonts no)
+	(model "${KICA}/4492.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -200,18 +189,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 0 0)
-		)
-	)
-	(model "/Users/martin.armand27/Documents/GitHub/desk-project-pico-stemma-hat/REIMAGINED_3D_FILES_BLENDER/4492.step"
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz -90 0 0)
+			(xyz -90 -0 -0)
 		)
 	)
 )

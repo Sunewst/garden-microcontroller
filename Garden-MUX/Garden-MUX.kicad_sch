@@ -15197,7 +15197,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:ESP32-C6-MINI-1"
+		(property "Footprint" "Pico_Footprints:ESP32-C6-MINI-1"
 			(at 358.14 93.98 0)
 			(effects
 				(font
