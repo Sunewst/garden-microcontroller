@@ -201,7 +201,7 @@
 		(uuid "2592faaf-604e-4ebd-a533-3343946b8463")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/boccs/OneDrive/Documents/GitHub/Garden-I2C-MUX-Microcontroller/REIMAGINED_3D_FILES_BLENDER/TL6330AF200Q.STEP"
+	(model "${KICA}/TL6330AF200Q.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

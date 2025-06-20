@@ -210,4 +210,26 @@
 		(uuid "bff63675-9977-4d0c-97be-625bdc086ec3")
 	)
 	(embedded_fonts no)
+	(model "/Users/sunewst/Documents/GitHub/Garden-microcontroller/REIMAGINED_3D_FILES_BLENDER/S2B-PH-SM4-TB.step"
+		(offset
+			(xyz 0 7 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 180)
+		)
+	)
+	(model "${KICA}/S2B-PH-SM4-TB.step"
+		(offset
+			(xyz 0 7 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
 )
