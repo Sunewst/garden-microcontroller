@@ -719,4 +719,15 @@
 			(xyz -90 -0 -0)
 		)
 	)
+	(model "${KIPRJMOD}/REIMAGINED_3D_FILES_BLENDER/ESP32-C6-MINI-1-N4.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

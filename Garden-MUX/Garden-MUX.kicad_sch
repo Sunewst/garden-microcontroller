@@ -5437,7 +5437,7 @@
 		(uuid 46c92079-b2a2-4ee0-afbc-023da17a44f4)
 	)
 	(rectangle
-		(start 271.78 15.24)
+		(start 241.3 15.24)
 		(end 373.38 102.87)
 		(stroke
 			(width 0)
@@ -5649,16 +5649,10 @@
 		(uuid "28bb6305-fc38-4270-924c-c09169b113cd")
 	)
 	(junction
-		(at 537.21 161.29)
+		(at 535.94 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2b898f52-8af9-4219-af32-5c6fbd71795c")
-	)
-	(junction
-		(at 55.88 26.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2c62e8a3-7b96-4de2-872d-594081949743")
 	)
 	(junction
 		(at 26.67 80.01)
@@ -5679,12 +5673,6 @@
 		(uuid "4e34d0a5-ca42-4611-89da-190cb7cea2ca")
 	)
 	(junction
-		(at 115.57 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "520d3c56-8f79-4b0b-824a-8327ecd27cdc")
-	)
-	(junction
 		(at 86.36 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5703,7 +5691,7 @@
 		(uuid "6245d81a-d077-4fc4-ab03-3cce3abead56")
 	)
 	(junction
-		(at 278.13 48.26)
+		(at 250.19 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "62a133c4-edae-41f9-8b6e-c8cac4525f2e")
@@ -5733,13 +5721,7 @@
 		(uuid "7ba9f9ca-d529-4470-b781-99979b00ce39")
 	)
 	(junction
-		(at 55.88 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "85f2194a-0e83-4c1e-be28-ff7eacfd41f3")
-	)
-	(junction
-		(at 293.37 43.18)
+		(at 265.43 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "86ec4a2d-80cc-4655-9c68-3497da9e8b53")
@@ -5749,12 +5731,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a8cede2-2b71-47bb-a9bd-750b21e6b86d")
-	)
-	(junction
-		(at 115.57 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8c6ddc95-ed55-429d-bcdd-8d7858d70cea")
 	)
 	(junction
 		(at 393.7 27.94)
@@ -5775,6 +5751,12 @@
 		(uuid "a20be7a0-e1e7-4abc-baa8-932eb5179762")
 	)
 	(junction
+		(at 248.92 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a2fb92d4-d295-44fb-8c40-c88b7930f82a")
+	)
+	(junction
 		(at 386.08 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5793,28 +5775,10 @@
 		(uuid "b5831a25-ce12-49ae-90a3-56f06f2a1e6c")
 	)
 	(junction
-		(at 115.57 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bb89d172-7167-4173-a981-42f9a766c583")
-	)
-	(junction
-		(at 55.88 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bc9fafd2-c6c6-4f6d-9eef-ee000fc5987b")
-	)
-	(junction
-		(at 293.37 48.26)
+		(at 265.43 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6c885f6-5fda-40ae-9fcd-39949d49a25b")
-	)
-	(junction
-		(at 55.88 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d8b278c5-64d1-4f3e-ae64-759227d74b20")
 	)
 	(junction
 		(at 405.13 27.94)
@@ -5823,16 +5787,16 @@
 		(uuid "dc2dfcba-9c0b-4d6e-9618-89cc37138911")
 	)
 	(junction
+		(at 264.16 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e377ee3b-8fbb-41ba-9cbb-89262a9d50e8")
+	)
+	(junction
 		(at 86.36 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec351788-0d15-4c90-9374-246b76340adb")
-	)
-	(junction
-		(at 116.84 26.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f5ffb617-4b30-4c60-aabd-5b6bee8380a3")
 	)
 	(junction
 		(at 497.84 187.96)
@@ -5847,16 +5811,56 @@
 		(uuid "fc704cb0-861a-43f8-9fb9-7b5cc8595d3e")
 	)
 	(no_connect
+		(at 325.12 60.96)
+		(uuid "09eec78f-69ee-41dd-b783-c1716b68c7a2")
+	)
+	(no_connect
+		(at 325.12 66.04)
+		(uuid "0c8d380a-75ce-4cb2-ba97-5dfc0dce9f46")
+	)
+	(no_connect
 		(at 447.04 144.78)
 		(uuid "1222dcb5-95de-4e40-aa7a-c600670d7511")
+	)
+	(no_connect
+		(at 355.6 63.5)
+		(uuid "1c2297f4-b8c4-40d6-940c-d593b88994aa")
+	)
+	(no_connect
+		(at 325.12 63.5)
+		(uuid "2fdeca09-8ac8-47fa-9f79-7c9e8a131a53")
 	)
 	(no_connect
 		(at 447.04 142.24)
 		(uuid "62235406-f250-49be-bbb8-b35efa1f2adb")
 	)
 	(no_connect
+		(at 325.12 53.34)
+		(uuid "6b1ef90c-841a-4c49-8c60-dd35da5809f2")
+	)
+	(no_connect
+		(at 325.12 58.42)
+		(uuid "7b717858-ee88-4941-963c-818e6c2cb29e")
+	)
+	(no_connect
+		(at 325.12 55.88)
+		(uuid "b9af0f29-fcf7-4b6f-8135-6a090249fe70")
+	)
+	(no_connect
+		(at 355.6 48.26)
+		(uuid "c7033059-d2a7-4918-8b8d-0d2df9304103")
+	)
+	(no_connect
+		(at 325.12 73.66)
+		(uuid "e525e0be-c1a9-4762-aab2-687ff1d7fe9e")
+	)
+	(no_connect
 		(at 424.18 152.4)
 		(uuid "ed2ac4b2-39c7-4e1f-9fa7-9e019ea6148c")
+	)
+	(no_connect
+		(at 355.6 50.8)
+		(uuid "f86d6c84-0165-4607-95ac-a21ffcd4fe3e")
 	)
 	(wire
 		(pts
@@ -6010,16 +6014,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 26.67) (xy 121.92 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "108fc584-1cac-4df3-b2eb-c78ef432eba5")
-	)
-	(wire
-		(pts
 			(xy 355.6 73.66) (xy 360.68 73.66)
 		)
 		(stroke
@@ -6110,7 +6104,7 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 43.18) (xy 293.37 48.26)
+			(xy 265.43 43.18) (xy 265.43 48.26)
 		)
 		(stroke
 			(width 0)
@@ -6200,7 +6194,7 @@
 	)
 	(wire
 		(pts
-			(xy 552.45 160.02) (xy 552.45 166.37)
+			(xy 551.18 130.81) (xy 551.18 137.16)
 		)
 		(stroke
 			(width 0)
@@ -6430,16 +6424,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 121.92) (xy 62.23 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32d8a40c-4f3d-473c-81da-376f9b8bd829")
-	)
-	(wire
-		(pts
 			(xy 355.6 71.12) (xy 360.68 71.12)
 		)
 		(stroke
@@ -6450,7 +6434,7 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 58.42) (xy 293.37 60.96)
+			(xy 265.43 58.42) (xy 265.43 60.96)
 		)
 		(stroke
 			(width 0)
@@ -6470,23 +6454,13 @@
 	)
 	(wire
 		(pts
-			(xy 549.91 157.48) (xy 552.45 157.48)
+			(xy 548.64 128.27) (xy 551.18 128.27)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "354e5fa9-19fe-4a0d-9c95-cc5c93f3adaa")
-	)
-	(wire
-		(pts
-			(xy 115.57 90.17) (xy 121.92 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35ebc5f0-69c5-44ed-9acb-cf84f5f0fa4d")
 	)
 	(wire
 		(pts
@@ -6520,6 +6494,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 81.28) (xy 264.16 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bc3ac87-c152-4a39-9ccf-20e1a29c8b23")
+	)
+	(wire
+		(pts
 			(xy 43.18 41.91) (xy 50.8 41.91)
 		)
 		(stroke
@@ -6550,7 +6534,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 48.26) (xy 278.13 50.8)
+			(xy 250.19 48.26) (xy 250.19 50.8)
 		)
 		(stroke
 			(width 0)
@@ -6560,7 +6544,7 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 78.74) (xy 293.37 81.28)
+			(xy 300.99 80.01) (xy 300.99 82.55)
 		)
 		(stroke
 			(width 0)
@@ -6740,17 +6724,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 58.42) (xy 121.92 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54b1d8d1-a8c5-4cec-8efc-ac7ed8b116be")
-	)
-	(wire
-		(pts
-			(xy 552.45 157.48) (xy 552.45 152.4)
+			(xy 551.18 128.27) (xy 551.18 123.19)
 		)
 		(stroke
 			(width 0)
@@ -6890,6 +6864,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 81.28) (xy 279.4 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "645745c5-5420-491e-be47-adef4ac5f16b")
+	)
+	(wire
+		(pts
 			(xy 19.05 35.56) (xy 19.05 40.64)
 		)
 		(stroke
@@ -6940,7 +6924,7 @@
 	)
 	(wire
 		(pts
-			(xy 298.45 43.18) (xy 293.37 43.18)
+			(xy 270.51 43.18) (xy 265.43 43.18)
 		)
 		(stroke
 			(width 0)
@@ -7190,7 +7174,7 @@
 	)
 	(wire
 		(pts
-			(xy 298.45 39.37) (xy 298.45 43.18)
+			(xy 270.51 39.37) (xy 270.51 43.18)
 		)
 		(stroke
 			(width 0)
@@ -7300,6 +7284,16 @@
 	)
 	(wire
 		(pts
+			(xy 248.92 81.28) (xy 248.92 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9069d45a-4a04-4ac1-9161-ce8ef7e43701")
+	)
+	(wire
+		(pts
 			(xy 447.04 129.54) (xy 453.39 129.54)
 		)
 		(stroke
@@ -7360,7 +7354,7 @@
 	)
 	(wire
 		(pts
-			(xy 537.21 156.21) (xy 537.21 161.29)
+			(xy 535.94 127) (xy 535.94 132.08)
 		)
 		(stroke
 			(width 0)
@@ -7437,6 +7431,16 @@
 			(type default)
 		)
 		(uuid "9b84164e-c54d-4033-8612-8cd6f32e7f1d")
+	)
+	(wire
+		(pts
+			(xy 287.02 77.47) (xy 287.02 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c6b059b-d1be-45d0-8d4b-d70154bf36e9")
 	)
 	(wire
 		(pts
@@ -7580,13 +7584,23 @@
 	)
 	(wire
 		(pts
-			(xy 537.21 161.29) (xy 537.21 166.37)
+			(xy 535.94 132.08) (xy 535.94 137.16)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a8ad5688-c13d-4397-9071-92b176102941")
+	)
+	(wire
+		(pts
+			(xy 248.92 86.36) (xy 248.92 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a93fde5d-e102-4d2f-b759-69ac465a3e8a")
 	)
 	(wire
 		(pts
@@ -7600,7 +7614,7 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 88.9) (xy 293.37 92.71)
+			(xy 300.99 90.17) (xy 300.99 93.98)
 		)
 		(stroke
 			(width 0)
@@ -7730,6 +7744,16 @@
 	)
 	(wire
 		(pts
+			(xy 318.77 76.2) (xy 325.12 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b63627f3-448b-40f9-bda7-2a7d5e87d002")
+	)
+	(wire
+		(pts
 			(xy 386.08 133.35) (xy 386.08 137.16)
 		)
 		(stroke
@@ -7767,16 +7791,6 @@
 			(type default)
 		)
 		(uuid "bb2e785d-36b5-4e59-a126-a1d3cd62af92")
-	)
-	(wire
-		(pts
-			(xy 55.88 58.42) (xy 62.23 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bccdf838-b069-4976-aa74-2fb8fe1fdfc3")
 	)
 	(wire
 		(pts
@@ -7860,16 +7874,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 121.92) (xy 121.92 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cef64208-0bef-49d4-8ef5-17308c772cc3")
-	)
-	(wire
-		(pts
 			(xy 106.68 81.28) (xy 106.68 85.09)
 		)
 		(stroke
@@ -7890,7 +7894,7 @@
 	)
 	(wire
 		(pts
-			(xy 567.69 162.56) (xy 567.69 166.37)
+			(xy 566.42 133.35) (xy 566.42 137.16)
 		)
 		(stroke
 			(width 0)
@@ -8020,7 +8024,7 @@
 	)
 	(wire
 		(pts
-			(xy 567.69 152.4) (xy 567.69 154.94)
+			(xy 566.42 123.19) (xy 566.42 125.73)
 		)
 		(stroke
 			(width 0)
@@ -8240,7 +8244,7 @@
 	)
 	(wire
 		(pts
-			(xy 298.45 29.21) (xy 298.45 31.75)
+			(xy 270.51 29.21) (xy 270.51 31.75)
 		)
 		(stroke
 			(width 0)
@@ -8270,33 +8274,13 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 43.18) (xy 278.13 48.26)
+			(xy 250.19 43.18) (xy 250.19 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "ed1e97d8-85fd-4b6f-96bb-edd0aaed6a49")
-	)
-	(wire
-		(pts
-			(xy 55.88 26.67) (xy 62.23 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ede23d6f-0b70-43ec-821e-38d395907207")
-	)
-	(wire
-		(pts
-			(xy 55.88 90.17) (xy 62.23 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee7d9132-b461-4f0c-9356-df05ef0fdd55")
 	)
 	(wire
 		(pts
@@ -8340,7 +8324,7 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 48.26) (xy 293.37 50.8)
+			(xy 265.43 48.26) (xy 265.43 50.8)
 		)
 		(stroke
 			(width 0)
@@ -8380,7 +8364,7 @@
 	)
 	(wire
 		(pts
-			(xy 552.45 160.02) (xy 549.91 160.02)
+			(xy 551.18 130.81) (xy 548.64 130.81)
 		)
 		(stroke
 			(width 0)
@@ -8579,7 +8563,7 @@
 		(uuid "36edb74a-04d1-4bd9-b2ec-3c4e9b0a0699")
 	)
 	(label "RST"
-		(at 293.37 46.99 0)
+		(at 265.43 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8717,6 +8701,16 @@
 			(justify left bottom)
 		)
 		(uuid "64796e5d-ae2d-43dc-b623-c994968f4e88")
+	)
+	(label "BOOT"
+		(at 273.05 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6540f28b-6828-4643-b390-483840c192e8")
 	)
 	(label "MUX_SCL"
 		(at 318.77 71.12 180)
@@ -8897,6 +8891,16 @@
 			(justify right bottom)
 		)
 		(uuid "97491258-9ef7-470a-9d02-b76bb90c901e")
+	)
+	(label "BOOT"
+		(at 318.77 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9da17444-c83c-46b5-a380-bdbf538e2983")
 	)
 	(label "SDA0"
 		(at 62.23 44.45 0)
@@ -9168,7 +9172,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00baed3e-40a4-432c-b31e-2528d515531e")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR056"
 			(at 480.06 210.82 0)
 			(effects
 				(font
@@ -9218,7 +9222,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR066")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -9460,7 +9464,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0658a34d-ba07-4585-924d-0706520ae708")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR053"
 			(at 480.06 74.93 0)
 			(effects
 				(font
@@ -9510,7 +9514,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR063")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -9526,7 +9530,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "09e84da2-a91c-4a58-85ff-4d9f74715056")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR052"
 			(at 464.82 157.48 0)
 			(effects
 				(font
@@ -9576,7 +9580,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR062")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -9668,6 +9672,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 248.92 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0b8c7187-4239-41fe-88f0-30e03bb03dfd")
+		(property "Reference" "#PWR033"
+			(at 248.92 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 248.92 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 248.92 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 248.92 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 248.92 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "76873146-f4d9-4a67-a6bc-444a820d508a")
+		)
+		(instances
+			(project ""
+				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 401.32 33.02 0)
 		(unit 1)
@@ -9676,7 +9746,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0fe15d00-652a-47c5-a61d-4491e1b1217a")
-		(property "Reference" "R8"
+		(property "Reference" "R7"
 			(at 406.146 34.798 90)
 			(effects
 				(font
@@ -9730,7 +9800,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R8")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -9745,7 +9815,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1089393f-f0c0-430f-8321-60bb270aa8d9")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR044"
 			(at 381 166.37 0)
 			(effects
 				(font
@@ -9795,7 +9865,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR054")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -9869,7 +9939,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 293.37 92.71 0)
+		(at 300.99 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9878,7 +9948,7 @@
 		(fields_autoplaced yes)
 		(uuid "15a93610-fe2d-4ec4-90eb-825e629577f5")
 		(property "Reference" "#PWR039"
-			(at 293.37 99.06 0)
+			(at 300.99 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9887,7 +9957,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 293.37 97.79 0)
+			(at 300.99 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9895,7 +9965,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 293.37 92.71 0)
+			(at 300.99 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9904,7 +9974,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 92.71 0)
+			(at 300.99 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9913,7 +9983,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 293.37 92.71 0)
+			(at 300.99 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10083,7 +10153,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1f32f106-f55b-4ace-a2ec-a26694a8c3e9")
-		(property "Reference" "C20"
+		(property "Reference" "C8"
 			(at 478.282 82.804 0)
 			(effects
 				(font
@@ -10137,7 +10207,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "C20")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -10153,7 +10223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2098282a-6a2c-4b79-bb8d-28239fc53d1a")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR066"
 			(at 527.05 86.36 0)
 			(effects
 				(font
@@ -10203,7 +10273,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR076")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -10218,7 +10288,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2443703d-4237-4f9f-aa01-95f6a86634ca")
-		(property "Reference" "R15"
+		(property "Reference" "R13"
 			(at 488.696 139.7 90)
 			(effects
 				(font
@@ -10270,7 +10340,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R15")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -10286,7 +10356,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24be1000-af5d-4f8b-b1ab-a28c6972fb4a")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR071"
 			(at 541.02 246.38 0)
 			(effects
 				(font
@@ -10336,7 +10406,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR083")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -10351,7 +10421,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "253d3430-c5a7-41ac-8906-62e193051c5b")
-		(property "Reference" "R2"
+		(property "Reference" "R3"
 			(at 383.794 34.798 90)
 			(effects
 				(font
@@ -10405,7 +10475,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R2")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -10486,7 +10556,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28e004ec-965b-46e8-9e5c-450f557480d1")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR063"
 			(at 502.92 210.82 0)
 			(effects
 				(font
@@ -10536,7 +10606,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR073")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -10552,7 +10622,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2baff482-4b0a-4bf2-b0b3-9e7e4bcac620")
-		(property "Reference" "R14"
+		(property "Reference" "R12"
 			(at 482.6 194.3099 0)
 			(effects
 				(font
@@ -10606,7 +10676,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R14")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -10614,7 +10684,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 278.13 50.8 0)
+		(at 250.19 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10622,8 +10692,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d62be50-fd4f-48ca-99fb-2d83db2ab545")
-		(property "Reference" "#PWR092"
-			(at 278.13 57.15 0)
+		(property "Reference" "#PWR034"
+			(at 250.19 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10632,7 +10702,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 278.13 55.88 0)
+			(at 250.19 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10640,7 +10710,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 278.13 50.8 0)
+			(at 250.19 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10649,7 +10719,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 278.13 50.8 0)
+			(at 250.19 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10658,7 +10728,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 278.13 50.8 0)
+			(at 250.19 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10672,7 +10742,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR092")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -10688,7 +10758,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2dc67184-d33c-4f10-a82b-236766f44eb4")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR050"
 			(at 431.8 163.83 0)
 			(effects
 				(font
@@ -10738,7 +10808,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR060")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -10753,7 +10823,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "31883b25-9c63-4bf7-b27f-2a5201e430d0")
-		(property "Reference" "R3"
+		(property "Reference" "R4"
 			(at 383.54 163.8299 0)
 			(effects
 				(font
@@ -10807,7 +10877,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R3")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -10958,7 +11028,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35346537-0ab6-43ce-9934-9b568e80740c")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR054"
 			(at 480.06 92.71 0)
 			(effects
 				(font
@@ -11008,7 +11078,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR064")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -11089,7 +11159,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36611e41-eaf8-46bb-8b29-627addbb6ffc")
-		(property "Reference" "C21"
+		(property "Reference" "C9"
 			(at 506.73 195.5799 0)
 			(effects
 				(font
@@ -11143,7 +11213,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "C21")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -11289,7 +11359,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b2e01d8-2d30-44ec-875c-9cd9634970ab")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR058"
 			(at 486.41 154.94 0)
 			(effects
 				(font
@@ -11339,7 +11409,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR068")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -11347,7 +11417,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 537.21 166.37 0)
+		(at 535.94 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11355,8 +11425,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b5a4fe2-3e84-4d28-8954-1586f5329635")
-		(property "Reference" "#PWR080"
-			(at 537.21 172.72 0)
+		(property "Reference" "#PWR068"
+			(at 535.94 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11365,7 +11435,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 537.21 171.45 0)
+			(at 535.94 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11373,7 +11443,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 537.21 166.37 0)
+			(at 535.94 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11382,7 +11452,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 537.21 166.37 0)
+			(at 535.94 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11391,7 +11461,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 537.21 166.37 0)
+			(at 535.94 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11405,7 +11475,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR080")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -11565,7 +11635,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f55adad-8d26-4111-bb96-5ed113928634")
-		(property "Reference" "R13"
+		(property "Reference" "R11"
 			(at 469.9 139.6999 0)
 			(effects
 				(font
@@ -11619,7 +11689,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R13")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -11715,7 +11785,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40b03811-6eee-498a-be09-40472c3511e4")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR049"
 			(at 417.83 85.09 0)
 			(effects
 				(font
@@ -11765,7 +11835,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR059")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -11930,7 +12000,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4403fc43-8ea7-430d-a022-f92aa27873d9")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR061"
 			(at 499.11 48.26 0)
 			(effects
 				(font
@@ -11981,7 +12051,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR071")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -12064,7 +12134,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4878e5b4-c9e2-4cb2-a42b-666ea728c82a")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR040"
 			(at 340.36 43.18 0)
 			(effects
 				(font
@@ -12114,7 +12184,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR034")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -12130,7 +12200,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4905fd9f-4832-4912-807f-e7dc112df213")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR055"
 			(at 480.06 172.72 0)
 			(effects
 				(font
@@ -12180,7 +12250,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR065")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -12254,7 +12324,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 293.37 60.96 0)
+		(at 265.43 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12262,8 +12332,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d75a043-3832-4ac8-a59e-a49792f52e20")
-		(property "Reference" "#PWR036"
-			(at 293.37 67.31 0)
+		(property "Reference" "#PWR035"
+			(at 265.43 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12272,7 +12342,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 293.37 66.04 0)
+			(at 265.43 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12280,7 +12350,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 293.37 60.96 0)
+			(at 265.43 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12289,7 +12359,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 60.96 0)
+			(at 265.43 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12298,7 +12368,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 293.37 60.96 0)
+			(at 265.43 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12312,7 +12382,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR036")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -12392,7 +12462,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4e18174a-7604-4802-8530-1c94c4c8ed39")
-		(property "Reference" "R4"
+		(property "Reference" "R5"
 			(at 391.414 34.798 90)
 			(effects
 				(font
@@ -12446,7 +12516,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R4")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -12586,7 +12656,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 293.37 78.74 0)
+		(at 300.99 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12594,8 +12664,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50fa60f0-abfb-44f5-b6eb-a64ef7929f52")
-		(property "Reference" "#PWR040"
-			(at 293.37 82.55 0)
+		(property "Reference" "#PWR038"
+			(at 300.99 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12604,7 +12674,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 293.37 73.66 0)
+			(at 300.99 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12612,7 +12682,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 293.37 78.74 0)
+			(at 300.99 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12621,7 +12691,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 78.74 0)
+			(at 300.99 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12630,7 +12700,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 293.37 78.74 0)
+			(at 300.99 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12644,7 +12714,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR040")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -12725,7 +12795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54a67a1d-ae61-48ed-98e0-d2ddc97d2547")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR075"
 			(at 552.45 210.82 0)
 			(effects
 				(font
@@ -12775,7 +12845,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR087")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -12783,7 +12853,7 @@
 	)
 	(symbol
 		(lib_id "Pico_Symbols:S2B-PH-SM4-TB")
-		(at 544.83 158.75 180)
+		(at 543.56 129.54 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12791,7 +12861,7 @@
 		(dnp no)
 		(uuid "5508430e-8b7b-4bcc-ab27-9184b2513279")
 		(property "Reference" "P1"
-			(at 544.576 153.67 0)
+			(at 543.306 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12800,7 +12870,7 @@
 			)
 		)
 		(property "Value" "S2B-PH-SM4-TB"
-			(at 543.306 151.638 0)
+			(at 542.036 122.428 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12808,7 +12878,7 @@
 			)
 		)
 		(property "Footprint" "Pico_Footprints:JST_S2B-PH-SM4-TB"
-			(at 543.306 165.1 0)
+			(at 542.036 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12818,7 +12888,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 544.83 158.75 0)
+			(at 543.56 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12827,7 +12897,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 544.83 158.75 0)
+			(at 543.56 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12836,7 +12906,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JST"
-			(at 544.068 151.384 0)
+			(at 542.798 122.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13268,7 +13338,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 552.45 152.4 0)
+		(at 551.18 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13276,8 +13346,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c2124a8-3b81-463e-9955-6dadab70600f")
-		(property "Reference" "#PWR084"
-			(at 552.45 156.21 0)
+		(property "Reference" "#PWR072"
+			(at 551.18 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13286,7 +13356,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 552.45 147.32 0)
+			(at 551.18 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13294,7 +13364,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 552.45 152.4 0)
+			(at 551.18 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13303,7 +13373,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 552.45 152.4 0)
+			(at 551.18 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13312,7 +13382,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 552.45 152.4 0)
+			(at 551.18 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13326,7 +13396,72 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR084")
+					(reference "#PWR072")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 287.02 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5ce7a6f5-0543-4589-b794-0c7589befc9e")
+		(property "Reference" "#PWR037"
+			(at 287.02 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 287.02 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 287.02 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 287.02 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 287.02 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5997d8e8-b9ea-4d5f-8bdc-9891ea5c3ba3")
+		)
+		(instances
+			(project "Garden-MUX"
+				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -13418,7 +13553,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5f3ccfe7-150f-4f99-a812-bac6fe439b47")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR045"
 			(at 381 191.77 0)
 			(effects
 				(font
@@ -13468,7 +13603,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR055")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -13675,7 +13810,7 @@
 	)
 	(symbol
 		(lib_id "Pico_Symbols:TL6330AF200Q")
-		(at 285.75 45.72 0)
+		(at 257.81 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13683,8 +13818,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6229e14c-783d-445c-b628-963a2e7f4a3b")
-		(property "Reference" "S11"
-			(at 285.75 36.83 0)
+		(property "Reference" "S10"
+			(at 257.81 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13692,7 +13827,7 @@
 			)
 		)
 		(property "Value" "TL6330AF200Q"
-			(at 285.75 39.37 0)
+			(at 257.81 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13700,7 +13835,7 @@
 			)
 		)
 		(property "Footprint" "Pico_Footprints:SW_TL6330AF200Q_Footprint"
-			(at 285.496 57.15 0)
+			(at 257.556 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13710,7 +13845,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 285.75 45.72 0)
+			(at 257.81 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13719,7 +13854,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 285.75 45.72 0)
+			(at 257.81 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13728,7 +13863,7 @@
 			)
 		)
 		(property "PARTREV" "D"
-			(at 285.75 45.72 0)
+			(at 257.81 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13738,7 +13873,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "TL6330AF200Q"
-			(at 285.75 52.832 0)
+			(at 257.81 52.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13748,7 +13883,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 285.496 54.864 0)
+			(at 257.556 54.864 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13758,7 +13893,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "1.9 mm"
-			(at 285.75 61.722 0)
+			(at 257.81 61.722 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13768,7 +13903,7 @@
 			)
 		)
 		(property "MANUFACTURER" "E-Switch"
-			(at 285.75 59.69 0)
+			(at 257.81 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13792,7 +13927,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "S11")
+					(reference "S10")
 					(unit 1)
 				)
 			)
@@ -13807,7 +13942,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "645257e4-1d45-49ae-943d-74d4e51bed39")
-		(property "Reference" "C19"
+		(property "Reference" "C7"
 			(at 377.952 78.994 0)
 			(effects
 				(font
@@ -13861,7 +13996,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "C19")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -14151,7 +14286,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7039b7c7-8b8c-4e75-8d51-7b4e6fa77000")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR048"
 			(at 406.4 147.32 0)
 			(effects
 				(font
@@ -14201,7 +14336,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR038")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -14429,7 +14564,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7614b1b8-7055-43a7-b48d-5435357b9771")
-		(property "Reference" "R16"
+		(property "Reference" "R14"
 			(at 490.22 50.7999 0)
 			(effects
 				(font
@@ -14483,7 +14618,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R16")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -14499,7 +14634,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77005e2d-31b0-4962-b8df-ecebf4d408a7")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR062"
 			(at 502.92 123.19 0)
 			(effects
 				(font
@@ -14549,7 +14684,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR072")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -14564,7 +14699,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "79ce3c12-5243-426f-bc7e-3dc3851ef34a")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR057"
 			(at 486.41 113.03 0)
 			(effects
 				(font
@@ -14614,7 +14749,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR067")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -14630,7 +14765,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b8ec4cb-d856-4d09-adbc-541d46c4e5c0")
-		(property "Reference" "C23"
+		(property "Reference" "C10"
 			(at 544.83 195.5799 0)
 			(effects
 				(font
@@ -14684,7 +14819,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "C23")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -14765,7 +14900,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "82943ace-08a0-4c05-87f3-6351379f2618")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR059"
 			(at 487.68 48.26 0)
 			(effects
 				(font
@@ -14816,7 +14951,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR069")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -14824,7 +14959,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 567.69 166.37 0)
+		(at 566.42 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14832,8 +14967,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8554f43b-3b42-4743-a2c3-675d69551241")
-		(property "Reference" "#PWR089"
-			(at 567.69 172.72 0)
+		(property "Reference" "#PWR077"
+			(at 566.42 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14842,7 +14977,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 567.69 171.45 0)
+			(at 566.42 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14850,7 +14985,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 567.69 166.37 0)
+			(at 566.42 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14859,7 +14994,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 567.69 166.37 0)
+			(at 566.42 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14868,7 +15003,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 567.69 166.37 0)
+			(at 566.42 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14882,7 +15017,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR089")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -14953,6 +15088,131 @@
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Pico_Symbols:TL6330AF200Q")
+		(at 256.54 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8f7f23e5-4220-4fdb-a3a1-29426c209b8c")
+		(property "Reference" "S9"
+			(at 256.54 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TL6330AF200Q"
+			(at 256.54 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Pico_Footprints:SW_TL6330AF200Q_Footprint"
+			(at 256.286 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 256.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 256.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "D"
+			(at 256.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" "TL6330AF200Q"
+			(at 256.54 90.932 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 256.286 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.9 mm"
+			(at 256.54 99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "E-Switch"
+			(at 256.54 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84089bf6-8a28-4aee-8930-d5934796a4d2")
+		)
+		(pin "3"
+			(uuid "38eb7069-63b7-4257-82ce-c3d26b6a45ae")
+		)
+		(pin "4"
+			(uuid "823a3855-3edb-495d-8c7f-e324a5987284")
+		)
+		(pin "2"
+			(uuid "b938a0b2-b915-4903-9e97-be0b2f97df48")
+		)
+		(instances
+			(project "Garden-MUX"
+				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
+					(reference "S9")
 					(unit 1)
 				)
 			)
@@ -15179,7 +15439,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98faa776-f1b1-497a-bde9-00f482fec29d")
-		(property "Reference" "U5"
+		(property "Reference" "U1"
 			(at 342.5033 40.64 0)
 			(effects
 				(font
@@ -15386,7 +15646,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "U5")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -15459,7 +15719,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 298.45 35.56 0)
+		(at 270.51 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15467,8 +15727,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9bedda75-a59d-4d77-ac96-baa9da9943c7")
-		(property "Reference" "R20"
-			(at 300.99 34.2899 0)
+		(property "Reference" "R1"
+			(at 273.05 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15477,7 +15737,7 @@
 			)
 		)
 		(property "Value" "5.1k"
-			(at 300.99 36.8299 0)
+			(at 273.05 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15486,7 +15746,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 299.466 35.814 90)
+			(at 271.526 35.814 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15495,7 +15755,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 298.45 35.56 0)
+			(at 270.51 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15504,7 +15764,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 298.45 35.56 0)
+			(at 270.51 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15521,7 +15781,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R20")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -15602,7 +15862,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d971049-085a-495a-8ff8-2eecde7d82f2")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR046"
 			(at 386.08 147.32 0)
 			(effects
 				(font
@@ -15652,7 +15912,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR057")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -15811,7 +16071,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a74f4e0c-006e-446b-81cf-4f76bb32f1ab")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR043"
 			(at 379.73 88.9 0)
 			(effects
 				(font
@@ -15861,7 +16121,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR053")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -15877,7 +16137,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a81de63e-14ea-4cff-848a-aca5c1a7e3cf")
-		(property "Reference" "R19"
+		(property "Reference" "R17"
 			(at 516.89 194.3099 0)
 			(effects
 				(font
@@ -15931,7 +16191,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R19")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -15947,7 +16207,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "acada8a6-4342-4f43-bb0a-cfc86a405330")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR070"
 			(at 541.02 210.82 0)
 			(effects
 				(font
@@ -15997,7 +16257,76 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR082")
+					(reference "#PWR070")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 283.21 81.28 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b265b9c8-0ead-45df-af6e-f289aaf59a43")
+		(property "Reference" "R2"
+			(at 282.194 83.566 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100k"
+			(at 280.924 86.106 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 282.956 82.296 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 283.21 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 283.21 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f5686d37-075b-4453-bfbc-44eb3cc422f2")
+		)
+		(pin "2"
+			(uuid "4a8075fc-8896-4ae8-b29a-3bfa96ab7fd7")
+		)
+		(instances
+			(project "Garden-MUX"
+				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -16013,7 +16342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b42ac3f8-d01a-4de5-b8a2-b62b28a73d01")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR041"
 			(at 340.36 102.87 0)
 			(effects
 				(font
@@ -16063,7 +16392,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR033")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -16071,7 +16400,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 293.37 54.61 0)
+		(at 265.43 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16080,7 +16409,7 @@
 		(fields_autoplaced yes)
 		(uuid "b7857dbf-077c-4058-bacf-873329bbe3d0")
 		(property "Reference" "C5"
-			(at 297.18 53.3399 0)
+			(at 269.24 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16089,7 +16418,7 @@
 			)
 		)
 		(property "Value" "1"
-			(at 297.18 55.8799 0)
+			(at 269.24 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16098,7 +16427,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 294.3352 58.42 0)
+			(at 266.3952 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16107,7 +16436,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 293.37 54.61 0)
+			(at 265.43 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16116,7 +16445,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 293.37 54.61 0)
+			(at 265.43 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16141,7 +16470,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 567.69 158.75 0)
+		(at 566.42 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16149,8 +16478,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b81f8f47-fedf-4ead-8cc2-edbfdab101a8")
-		(property "Reference" "C26"
-			(at 571.5 157.4799 0)
+		(property "Reference" "C13"
+			(at 570.23 128.2699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16159,7 +16488,7 @@
 			)
 		)
 		(property "Value" "10"
-			(at 571.5 160.0199 0)
+			(at 570.23 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16168,7 +16497,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 568.6552 162.56 0)
+			(at 567.3852 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16177,7 +16506,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 567.69 158.75 0)
+			(at 566.42 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16186,7 +16515,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 567.69 158.75 0)
+			(at 566.42 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16203,7 +16532,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "C26")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -16354,7 +16683,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bd1c7734-feb0-46d6-80c8-292d3a2fe7f6")
-		(property "Reference" "R11"
+		(property "Reference" "R9"
 			(at 421.64 34.798 90)
 			(effects
 				(font
@@ -16408,7 +16737,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R11")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -16488,7 +16817,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c10e9aa9-a74e-44d5-b72b-1c9c354f8e18")
-		(property "Reference" "R18"
+		(property "Reference" "R16"
 			(at 505.46 130.556 90)
 			(effects
 				(font
@@ -16540,7 +16869,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R18")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -16556,7 +16885,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbf7dffa-f887-4cbd-8420-0b05828cbfb2")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR051"
 			(at 452.12 113.03 0)
 			(effects
 				(font
@@ -16606,7 +16935,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR061")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -16689,7 +17018,7 @@
 		(dnp no)
 		(uuid "ce3f2420-7b78-4cbb-abc1-698f5faeb482")
 		(property "Reference" "U2"
-			(at 514.096 140.716 0)
+			(at 493.776 135.636 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16698,7 +17027,7 @@
 			)
 		)
 		(property "Value" "MCP73832-2-OT"
-			(at 506.73 138.684 0)
+			(at 488.696 133.096 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16768,7 +17097,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d0a97220-e216-4c67-943b-1c67b68c9c52")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR042"
 			(at 379.73 71.12 0)
 			(effects
 				(font
@@ -16818,7 +17147,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR052")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -16834,7 +17163,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d161c1c8-8c4b-473b-8da6-6d10753fcfc9")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR067"
 			(at 529.59 210.82 0)
 			(effects
 				(font
@@ -16884,7 +17213,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR079")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -16900,7 +17229,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d27fd068-ea6b-456d-91c9-e8d7b31f4c37")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR060"
 			(at 497.84 175.26 0)
 			(effects
 				(font
@@ -16950,7 +17279,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR070")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -16966,7 +17295,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d31d3c8a-8205-49d6-94a3-2b42d09dc270")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR074"
 			(at 552.45 194.31 0)
 			(effects
 				(font
@@ -17017,7 +17346,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR086")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -17025,7 +17354,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 567.69 152.4 0)
+		(at 566.42 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17033,8 +17362,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d644ac25-05c7-4373-b158-aaf1060f6280")
-		(property "Reference" "#PWR037"
-			(at 567.69 156.21 0)
+		(property "Reference" "#PWR076"
+			(at 566.42 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17043,7 +17372,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 567.69 147.32 0)
+			(at 566.42 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17051,7 +17380,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 567.69 152.4 0)
+			(at 566.42 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17060,7 +17389,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 567.69 152.4 0)
+			(at 566.42 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17069,7 +17398,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 567.69 152.4 0)
+			(at 566.42 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17083,7 +17412,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR037")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -17099,7 +17428,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d78bb2a4-d1e3-4f73-beb8-166239f99b2e")
-		(property "Reference" "C24"
+		(property "Reference" "C11"
 			(at 556.26 195.5799 0)
 			(effects
 				(font
@@ -17153,7 +17482,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "C24")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -17169,7 +17498,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc730223-1f73-449b-a584-0e5aac2466d6")
-		(property "Reference" "R17"
+		(property "Reference" "R15"
 			(at 501.65 50.7999 0)
 			(effects
 				(font
@@ -17223,7 +17552,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R17")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -17238,7 +17567,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de44e7cf-53eb-4f85-9a78-7643d5166dcf")
-		(property "Reference" "R12"
+		(property "Reference" "R10"
 			(at 455.93 139.7 0)
 			(effects
 				(font
@@ -17292,7 +17621,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R12")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -17371,7 +17700,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e5713a7f-e57b-4282-ae5d-d57dd0fef880")
-		(property "Reference" "R10"
+		(property "Reference" "R8"
 			(at 413.766 34.798 90)
 			(effects
 				(font
@@ -17425,7 +17754,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "R10")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -17433,7 +17762,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 552.45 166.37 0)
+		(at 551.18 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17441,8 +17770,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e80fcf56-8df8-4642-a1cd-ed924acf7a32")
-		(property "Reference" "#PWR085"
-			(at 552.45 172.72 0)
+		(property "Reference" "#PWR073"
+			(at 551.18 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17451,7 +17780,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 552.45 171.45 0)
+			(at 551.18 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17459,7 +17788,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 552.45 166.37 0)
+			(at 551.18 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17468,7 +17797,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 552.45 166.37 0)
+			(at 551.18 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17477,7 +17806,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 552.45 166.37 0)
+			(at 551.18 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17491,7 +17820,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR085")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -17507,7 +17836,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee78aa96-122b-4d70-a5d7-15753cc5d925")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR047"
 			(at 405.13 25.4 0)
 			(effects
 				(font
@@ -17558,7 +17887,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR058")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -17759,7 +18088,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 298.45 29.21 0)
+		(at 270.51 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17767,8 +18096,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f48bfa44-ffbc-4099-8673-61993d47a521")
-		(property "Reference" "#PWR035"
-			(at 298.45 33.02 0)
+		(property "Reference" "#PWR036"
+			(at 270.51 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17777,7 +18106,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 298.45 24.13 0)
+			(at 270.51 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17785,7 +18114,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 298.45 29.21 0)
+			(at 270.51 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17794,7 +18123,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 298.45 29.21 0)
+			(at 270.51 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17803,7 +18132,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 298.45 29.21 0)
+			(at 270.51 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17817,7 +18146,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR035")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -17833,7 +18162,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f62d0a59-26e6-4fcf-9258-d18a6b82547c")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR065"
 			(at 520.7 128.27 0)
 			(effects
 				(font
@@ -17883,7 +18212,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR075")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -17898,7 +18227,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fb7c3fe8-bba6-4f36-82a5-dc6af25cbf18")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR064"
 			(at 519.43 67.31 0)
 			(effects
 				(font
@@ -17949,7 +18278,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR074")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -17965,7 +18294,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fcdc1ff9-ed06-4cf7-b1bf-4153352b097d")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR069"
 			(at 541.02 187.96 0)
 			(effects
 				(font
@@ -18016,7 +18345,7 @@
 		(instances
 			(project "Garden-MUX"
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "#PWR081")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -18101,7 +18430,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd68aa00-fbde-43c9-8981-12ea195e8062")
-		(property "Reference" "C25"
+		(property "Reference" "C12"
 			(at 557.53 233.6799 0)
 			(effects
 				(font
@@ -18155,7 +18484,7 @@
 		(instances
 			(project ""
 				(path "/27ca7141-07bc-42d4-b74a-f55a9e480797"
-					(reference "C25")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -18273,7 +18602,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 293.37 85.09 0)
+		(at 300.99 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18282,7 +18611,7 @@
 		(fields_autoplaced yes)
 		(uuid "fede1754-d399-42e8-8db3-200584b4d1b8")
 		(property "Reference" "C6"
-			(at 297.18 83.8199 0)
+			(at 304.8 85.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18291,7 +18620,7 @@
 			)
 		)
 		(property "Value" "1"
-			(at 297.18 86.3599 0)
+			(at 304.8 87.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18300,7 +18629,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 294.3352 88.9 0)
+			(at 301.9552 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18309,7 +18638,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 293.37 85.09 0)
+			(at 300.99 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18318,7 +18647,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 293.37 85.09 0)
+			(at 300.99 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)

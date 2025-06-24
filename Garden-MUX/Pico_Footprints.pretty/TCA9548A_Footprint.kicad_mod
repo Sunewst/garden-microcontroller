@@ -1408,8 +1408,7 @@
 		(uuid "d2b79ed1-4c5d-4cfd-8938-50f4b12b55e9")
 	)
 	(embedded_fonts no)
-	(model "${KICA}/PW0024A.stp"
-		(opacity 0.9500)
+	(model "${KIPRJMOD}/REIMAGINED_3D_FILES_BLENDER/PW0024A.stp"
 		(offset
 			(xyz 0 0 0)
 		)
