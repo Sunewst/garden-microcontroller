@@ -5914,16 +5914,6 @@
 	)
 	(wire
 		(pts
-			(xy 445.77 55.88) (xy 379.73 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "048dc02a-4bb7-49d3-9851-2d23e0bdfe07")
-	)
-	(wire
-		(pts
 			(xy 408.94 45.72) (xy 445.77 45.72)
 		)
 		(stroke
@@ -6604,6 +6594,16 @@
 	)
 	(wire
 		(pts
+			(xy 393.7 50.8) (xy 445.77 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49b47dec-a590-43be-b8e2-50a55d290f62")
+	)
+	(wire
+		(pts
 			(xy 417.83 68.58) (xy 417.83 71.12)
 		)
 		(stroke
@@ -6801,6 +6801,16 @@
 			(type default)
 		)
 		(uuid "5a46753c-935f-44b4-aaba-b7707222e9cf")
+	)
+	(wire
+		(pts
+			(xy 401.32 48.26) (xy 445.77 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c21bcdb-a39f-4237-8849-197f19534ec6")
 	)
 	(wire
 		(pts
@@ -7131,16 +7141,6 @@
 			(type default)
 		)
 		(uuid "82bdb618-fc45-440d-b3b9-5cb523783854")
-	)
-	(wire
-		(pts
-			(xy 445.77 50.8) (xy 393.7 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84dcfcf3-74af-41cb-ae91-b91918f5d8b6")
 	)
 	(wire
 		(pts
@@ -7764,16 +7764,6 @@
 	)
 	(wire
 		(pts
-			(xy 445.77 48.26) (xy 401.32 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba09adee-9ae1-4b50-ae22-2ed5901b5460")
-	)
-	(wire
-		(pts
 			(xy 26.67 106.68) (xy 26.67 111.76)
 		)
 		(stroke
@@ -8324,6 +8314,16 @@
 	)
 	(wire
 		(pts
+			(xy 379.73 55.88) (xy 445.77 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1dd01dd-45e6-496f-ace5-96e53cee0578")
+	)
+	(wire
+		(pts
 			(xy 265.43 48.26) (xy 265.43 50.8)
 		)
 		(stroke
@@ -8413,7 +8413,7 @@
 		(uuid "097e0c65-ed65-4e68-97c8-02d8732ced28")
 	)
 	(label "DATA_IN"
-		(at 429.26 53.34 0)
+		(at 433.07 53.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8773,7 +8773,7 @@
 		(uuid "70680529-2ab4-4f8e-8690-d59042518521")
 	)
 	(label "CS"
-		(at 429.26 50.8 0)
+		(at 433.07 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8863,7 +8863,7 @@
 		(uuid "8fd4c01a-6899-43a3-84fc-37df6e3eb725")
 	)
 	(label "SD_CLK"
-		(at 429.26 55.88 0)
+		(at 433.07 55.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9063,7 +9063,7 @@
 		(uuid "e39d542e-cd6f-478b-91ec-ef0e50e1c0a9")
 	)
 	(label "DATA_OUT"
-		(at 429.26 43.18 0)
+		(at 433.07 43.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9093,7 +9093,7 @@
 		(uuid "eb73a650-a8e1-4783-ba68-36b44405114a")
 	)
 	(label "DAT2"
-		(at 431.8 48.26 0)
+		(at 433.07 48.26 0)
 		(effects
 			(font
 				(size 1.27 1.27)

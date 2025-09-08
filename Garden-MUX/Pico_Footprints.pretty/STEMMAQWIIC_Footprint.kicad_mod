@@ -245,20 +245,9 @@
 		(uuid "4a79fe7f-cc76-44ad-8501-03194b52c172")
 	)
 	(embedded_fonts no)
-	(model "${KICA}/PRT-14417.step"
-		(offset
-			(xyz 0 2 -0.3)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz -90 -0 -0)
-		)
-	)
 	(model "${KIPRJMOD}/REIMAGINED_3D_FILES_BLENDER/PRT-14417.step"
 		(offset
-			(xyz 0 2 0)
+			(xyz 0 2 -0.3)
 		)
 		(scale
 			(xyz 1 1 1)
